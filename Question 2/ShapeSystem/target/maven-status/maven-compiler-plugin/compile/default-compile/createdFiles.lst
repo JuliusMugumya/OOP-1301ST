@@ -1,6 +1,0 @@
-shapesystem\Shape.class
-shapesystem\Circle.class
-shapesystem\Rectangle.class
-shapesystem\Triangle.class
-shapesystem\InvalidShapeException.class
-shapesystem\ShapeDemo.class
